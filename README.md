@@ -112,7 +112,7 @@ Steps:
 ## Project Structure
 
 ```
-huggingface-bert-finetune/
+bert-huggingface-nlp
 ├── hf_bert_imdb.py       # Training and evaluation script
 ├── requirements.txt      # Python dependencies
 ├── README.md             # Project documentation
