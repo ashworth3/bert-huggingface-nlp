@@ -1,0 +1,33 @@
+# Python cache & compiled files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.env/
+
+# VS Code settings
+.vscode/
+
+# macOS & Windows system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Hugging Face + Transformers
+*.bin
+*.pt
+*.ckpt
+**/cache/
+
+# Logs & training outputs
+*.log
+logs/
+results/
+checkpoints/
+
+# Build artifacts (if you ever use `python setup.py`)
+*.egg-info/
+*.eggs/
+dist/
+build/
