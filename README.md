@@ -111,15 +111,17 @@ Steps:
 
 ## Project Structure
 
+```
 huggingface-bert-finetune/
 ├── hf_bert_imdb.py       # Training and evaluation script
 ├── requirements.txt      # Python dependencies
 ├── README.md             # Project documentation
 ├── .gitignore
 ├── results/              # Output for logs and checkpoints
-└── images/               # Screenshots
-    ├── running.png       # Training logs screenshot
-    └── results.png       # Evaluation output screenshot
+├── images/               # Screenshots
+│   ├── running.png       # Training logs screenshot
+│   └── results.png       # Evaluation output screenshot
+```
 
 ---
 
